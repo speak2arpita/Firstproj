@@ -1,2 +1,2 @@
-print''Updat1''
-Print 
+print('Updat1')
+Print ('update2')
